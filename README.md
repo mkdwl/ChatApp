@@ -24,7 +24,7 @@ Welcome to ChatApp, a modern and user-friendly web-based chat application that a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ChatApp.git
+   git clone https://github.com/mkdwl/ChatApp.git
    ```
 
 2. **Navigate to the project directory**:
